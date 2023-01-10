@@ -23,8 +23,8 @@ CSS de el Titol i Logo
 .Logo{
     width: 30%;
     height: 165px;
-    position: fixed;
-    left: 35%;   
+    margin-left: 670px;
+
 }
 
 .Titol-Txt{
